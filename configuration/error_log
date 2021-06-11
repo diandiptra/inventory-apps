@@ -1,0 +1,9 @@
+[18-Oct-2019 15:29:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/u5846718/public_html/ineselectricsindonesia.com/inven/configuration/config_export.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/u5846718/public_html/ineselectricsindonesia.com/inven/configuration/config_export.php on line 80
+[05-Jan-2020 05:03:11 UTC] PHP Notice:  Undefined index: search in /home/u5846718/public_html/goldlion.site/inventory/configuration/config_export.php on line 2
+[05-Jan-2020 05:03:11 UTC] PHP Notice:  Undefined index: forward in /home/u5846718/public_html/goldlion.site/inventory/configuration/config_export.php on line 3
+[05-Jan-2020 20:02:30 UTC] PHP Notice:  Undefined index: search in /home/u5846718/public_html/goldlion.site/inventory/configuration/config_export.php on line 2
+[05-Jan-2020 20:02:30 UTC] PHP Notice:  Undefined index: forward in /home/u5846718/public_html/goldlion.site/inventory/configuration/config_export.php on line 3
+[10-Apr-2020 02:41:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u5846718/public_html/goldlion.site/inventorycustom/configuration/config_export.php on line 357

@@ -1,0 +1,2 @@
+Nama database sesuaikan dengan nama filenya .
+buka table backset dan sesuaikan base url dengan base url anda
